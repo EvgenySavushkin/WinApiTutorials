@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\друг\source\repos\winproj_0.5\winproj_0.5\source.cpp(70): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\друг\source\repos\winproj_0.5\winproj_0.5\source.cpp(71): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  WinProj_0.5.vcxproj -> c:\users\друг\source\repos\WinProj_0.5\Debug\WinProj_0.5.exe
