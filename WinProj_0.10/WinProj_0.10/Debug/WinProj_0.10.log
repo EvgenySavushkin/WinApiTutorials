@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\друг\source\repos\winproj_0.10\winproj_0.10\source.cpp(47): warning C4101: hRgn: неиспользованная локальная переменная
+  WinProj_0.10.vcxproj -> c:\users\друг\source\repos\WinProj_0.10\Debug\WinProj_0.10.exe
